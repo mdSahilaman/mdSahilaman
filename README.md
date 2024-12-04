@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sahil Aman</h1>
 <h3 align="center">I'm currently a B.Tech(PIE) student at BIT Mesra, India, on a thrilling journey of exploration in the world of Data Science. Driven by a fascination with artificial intelligence's potential to unlock insights and solve real-world problems, I'm constantly seeking new challenges and opportunities to deepen my understanding and hone my skills.</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
-- 🌱 I’m currently learning Machine Learning,Deep Learning and Data Science
+- 🌱 I’m currently learning Data Science.
 
 - 📫 How to reach me **amanmdsahil@gmail.com**
 
